@@ -21,5 +21,10 @@ namespace student0621gitpractice
         {
             button1.Text = "ok";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            button2.Text = "ok";
+        }
     }
 }
